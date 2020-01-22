@@ -1,6 +1,6 @@
 /**
  * @author Juan Marroquin 19845
- * @author Carlos 
+ * @author Carlos Raxtum 19721
  */
 public interface LaRadio {
     public String estacionActual();
